@@ -5,7 +5,7 @@ twitter-bootstrap-rails project integrates Bootstrap CSS toolkit for Rails 3.1 A
 
 [![Build Status](https://secure.travis-ci.org/seyhunak/twitter-bootstrap-rails.png)](http://travis-ci.org/seyhunak/twitter-bootstrap-rails)
 [![Dependency Status](https://gemnasium.com/seyhunak/twitter-bootstrap-rails.png)](https://gemnasium.com/seyhunak/twitter-bootstrap-rails)
-[![Code Climate](https://codeclimate.com/badge.png)](https://github.com/seyhunak/twitter-bootstrap-rails)
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/seyhunak/twitter-bootstrap-rails)
 
 ## Screencasts
 #### Installing twitter-bootstrap-rails, generators, usage and more
@@ -83,7 +83,7 @@ Example:
     rake db:migrate
     rails g bootstrap:themed Posts
 
-
+Notice the plural usage of the resource to generate bootstrap:themed.
 
 ## Using with Less
 
@@ -188,6 +188,8 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
   <li>Released gem v.2.1.0 (JRuby support)</li>
   <li>Released gem v.2.1.1 (minor fixes)</li>
   <li>Flash block message helper added</li>
+  <li>Released gem v.2.1.2 (minor fixes and updated to Twitter Bootstrap 2.1.0)</li>
+  <li>Released gem v.2.1.3 (minor fixes and updated to Twitter Bootstrap 2.1.1)</li>
 </ul>
 
 
@@ -208,6 +210,7 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
   <li>Sébastien Grosjean</li>
   <li>Nick DeSteffen</li>
   <li>Christian Joudrey</li>
+  <li>Todd Baur</li>
 </ul>
 
 
